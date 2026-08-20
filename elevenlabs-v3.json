@@ -1,0 +1,17 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/funCapital/mcp-client-metadata@main/elevenlabs-v3.json",
+  "client_name": "Adam’s Codex",
+  "client_uri": "https://github.com/funCapital/mcp-client-metadata",
+  "redirect_uris": [
+    "http://127.0.0.1:4321/callback/6MFBM1In3Ey-"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "convai_read convai_write text_to_speech speech_history_read flows image_video_generation"
+}
